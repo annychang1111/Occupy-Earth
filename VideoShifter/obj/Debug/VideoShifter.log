@@ -1,0 +1,39 @@
+﻿  main.cpp
+  ofApp.cpp
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\utils\ofLog.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\types\ofTypes.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\utils\ofLog.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\types\ofTypes.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h(778): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+d:\1-school\studying\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h(778): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofMesh.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofMesh.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPolyline.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPolyline.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPath.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPath.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofCamera.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofEasyCam.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\main.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofCamera.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofEasyCam.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss (compiling source file src\ofApp.cpp)
+src\ofApp.cpp(85): warning C4553: '==': operator has no effect; did you intend '='?
+     Creating library bin\VideoShifter_debug.lib and object bin\VideoShifter_debug.exp
+  VideoShifter.vcxproj -> D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\apps\Occupy Earth\VideoShifter\bin\VideoShifter_debug.exe
+  VideoShifter.vcxproj -> bin\VideoShifter_debug.pdb (Full PDB)
+  
+  	                   9	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\
+  	    新檔案    		 2939392	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\assimp.dll
+  	    新檔案    		 1266176	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\fmodex.dll
+  	    新檔案    		 1312768	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\fmodexL.dll
+  	    新檔案    		 5647872	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\FreeImage.dll
+  	    新檔案    		  580608	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\freetype.dll
+  	    新檔案    		  237568	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\glut32.dll
+  	    新檔案    		 1178624	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\libeay32.dll
+  	    新檔案    		  269824	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\ssleay32.dll
+  	    新檔案    		   69632	D:\1-School\studying\openFrameworks\of_v0.9.8_vs_release\export\vs\Win32\Zlib.dll
